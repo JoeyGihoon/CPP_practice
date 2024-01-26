@@ -1,2 +1,0 @@
-C:\Users\gihoo\Desktop\코딩테스트 연습\240107_정렬\Debug\240107_정렬.exe
-C:\Users\gihoo\Desktop\코딩테스트 연습\240107_정렬\Debug\240107_정렬.pdb
