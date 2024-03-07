@@ -1,4 +1,0 @@
-C:\Users\gihoo\Desktop\CPP_coding\Project1\Debug\Project1.exe
-C:\Users\gihoo\Desktop\CPP_coding\Project1\Debug\Project1.pdb
-C:\Users\gihoo\Desktop\CPP_coding\240208_그래프\Debug\Project1.exe
-C:\Users\gihoo\Desktop\CPP_coding\240208_그래프\Debug\Project1.pdb
